@@ -1,0 +1,38 @@
+    /**********************TAGS***************************/
+
+h1 {
+  color: #D49D42;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 100px;
+}
+
+h3 {
+  color: tan;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+p {
+  font-style: italic;
+}
+
+body {
+  background-color: #628395;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+img {
+  height: 300px;
+}
+
+    /************************CLASS*************************/
